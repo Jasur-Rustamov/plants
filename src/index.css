@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@utility container {
+	padding-inline: 150px;
+	margin-inline: auto;
+}
+
+@theme {
+    --color-primary: #499A18;
+    --color-porange: #E06733;
+}
