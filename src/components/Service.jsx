@@ -33,7 +33,7 @@ function Service() {
             <div key={index} className="text-center cursor-pointer">
               <img
                 className="w-full max-w-[320px] mx-auto"
-                src={`public/images/${item.img}`}
+                src={`/images/${item.img}`}
                 alt="error"
               />
               <div className="border border-[#E3E1D5] rounded-b-2xl p-4 w-[320px] mx-auto">

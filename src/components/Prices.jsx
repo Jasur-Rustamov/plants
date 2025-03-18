@@ -34,7 +34,7 @@ function Prices() {
             </button>
           </div>
           <img
-            src="public/images/prices.png"
+            src="/images/prices.png"
             alt="error"
             className="w-[200px] mx-auto md:w-auto"
           />

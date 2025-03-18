@@ -5,7 +5,7 @@ function Hero() {
       <div className="container max-w-screen-xl mx-auto px-6 md:px-10 lg:px-20 flex flex-col lg:flex-row justify-center lg:justify-between items-center h-[89vh] lg:h-[91vh]">
         <div className="w-full flex justify-center lg:w-auto">
           <img
-            src="/public/images/hero_img.png"
+            src="/images/hero_img.png"
             alt="hero img"
             className="w-[200px] sm:pb-0 sm:w-[300px] md:w-[400px] lg:w-[500px] xl:w-auto"
           />

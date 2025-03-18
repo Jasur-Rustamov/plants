@@ -20,7 +20,7 @@ function Professional() {
 
       <div className="w-full flex justify-center lg:w-auto">
         <img
-          src="public/images/houseplant 1.png"
+          src="/images/houseplant 1.png"
           alt="error"
           className="w-[250px] sm:w-[300px] md:w-[400px] lg:w-[500px] xl:w-auto"
         />
